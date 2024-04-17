@@ -78,10 +78,10 @@
                     </execution>
                 </executions>
             </plugin>
-        </plugins>
-    </build>
+                            </plugins>
+                   </build>
 
-    <distributionManagement>
+                       <distributionManagement>
 	 <repository>
 	    <id>maven-releases</id>
 	    <url>http://65.0.106.7:8081/repository/maven-releases/</url>
